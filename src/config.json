@@ -1,0 +1,46 @@
+[
+    {
+        "section": "General",
+        "controls": [
+            "Gas:Up Arrow",
+            "Brake:Space",
+            "Steer Left:Left Arrow",
+            "Steer Right:Right Arrow"
+        ]
+    },
+    {
+        "section": "Editor",
+        "controls": [
+            "Block Mode:F1",
+            "Item Mode:F2",
+            "Macrobloack Mode:F3",
+            "Move Around:Alt + Left MB",
+            "Look Around:Alt + Right MB",
+            "Zoom In/Out:Alt + Middle MB",
+            "Erase Mode:X (hold)",
+            "Delete free block on hover:Del (hold)",
+            "Place free block:Space (hold)",
+            "Camera Up:Page Up",
+            "Camera Down:Page Down",
+            "Cursor Pitch:Page Down",
+            "Cursor Yaw:",
+            "Skinning Mode (apply last):Shift + LMB",
+            "Select picked block/item:Ctrl + LMB",
+            "Focus on picked block/item:Ctrl + RMB",
+            "Show/hide in-game helpers:H",
+            "Prevent snapping to free blocks:Shift (hold)"
+        ]
+    },
+    {
+        "section": "Advanced",
+        "controls": [
+            "Profiler:Ctrl + F7",
+            "GPU:Ctrl + F11",
+            "3D Goggles Mode:Shift + F11",
+            "???:Ctrl + Scroll Lock",
+            "Reload Maniascript:Shift + Scroll Lock",
+            "ManiaScript Debugger:Ctrl + G",
+            "No Openplanet:Hold Scroll Lock/Break on Boot"
+        ]
+    }
+]
