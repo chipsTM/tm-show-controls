@@ -40,7 +40,7 @@
             "???:Ctrl + Scroll Lock",
             "Reload Maniascript:Shift + Scroll Lock",
             "ManiaScript Debugger:Ctrl + G",
-            "No Openplanet:Hold Scroll Lock/Break on Boot"
+            "No Openplanet:Hold Pause/Break on Boot"
         ]
     }
 ]
